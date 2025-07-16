@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Godisbestfather
-- 👀 I’m interested in Math and education
-- 🌱 I’m currently learning math, humanites, and science
-- 💞️ I’m looking to collaborate on math
-- 📫 How to reach me ...
+- 👀 This is my personal profile where I put my open source (and closed sourced) projects
+- 🌱 Currently a sophomore at Reservoir High 
+- 💞️ Recreating apps that annoy me
 
 <!---
 Godisbestfather/Godisbestfather is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
